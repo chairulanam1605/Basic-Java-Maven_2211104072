@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/chairulanam1605/Basic-Java-Maven_2211104072</url>
+      <url>https://maven.pkg.github.com/chairulanam165/Basic-Java-Maven_2211104072</url>
     </repository>
   </distributionManagement>
   
